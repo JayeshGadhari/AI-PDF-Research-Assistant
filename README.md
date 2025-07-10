@@ -24,8 +24,8 @@ No API keys, no cloud — your data stays **private and local**.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone <https://github.com/JayeshGadhari/Information-Retrieval-System.git>
+cd <Information Retrieval System>
 ```
 
 ---
