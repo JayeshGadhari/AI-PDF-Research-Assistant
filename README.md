@@ -1,4 +1,4 @@
-# 📚 Information Retrieval System using Local LLM (Ollama)
+# 📚 AI PDFs Research Assistant using Local LLM (Ollama)
 
 This project is an **offline, fully local document question-answering app** built with:
 - 🧠 Open-source LLM (`llama3`) running locally via **Ollama**
