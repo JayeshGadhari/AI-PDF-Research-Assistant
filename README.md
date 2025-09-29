@@ -123,6 +123,20 @@ project/
 
 ---
 
+## 📸 App Preview  
+![AI PDFs Research Assistant](images/SS1.png)  
+
+---
+
+---
+
+## 📸 App Preview  
+![AI PDFs Research Assistant](images/SS2.png)  
+
+---
+
+---
+
 ## 🤝 Contributing
 PRs and suggestions welcome!
 
